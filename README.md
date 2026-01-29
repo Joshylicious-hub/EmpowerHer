@@ -2,7 +2,7 @@
 # 🌸 EmpowerHer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Front-End](https://img.shields.io/badge/Front--End-React-blue)](https://reactjs.org/)
+[![Front-End](https://img.shields.io/badge/Front--End-Javascript-blue)](https://reactjs.org/)
 [![Backend](https://img.shields.io/badge/Back--End-PHP-red)](https://www.php.net/)
 
 EmpowerHer is a **capstone project** designed to guide single mothers throughout their parenting journey. Inspired by [EmpowerHerBest](https://empowerherbest.com/?utm_source=chatgpt.com), the platform provides resources, community support, and AI-powered guidance.  
@@ -29,7 +29,7 @@ The platform includes:
 
 ## 💻 Technologies Used
 
-- **Front-End**: HTML, CSS, JavaScript, React  
+- **Front-End**: HTML, CSS, JavaScript  
 - **Back-End**: PHP, MySQL  
 - **AI Integration**: AI Chatbot & Content Checker  
 
