@@ -27,7 +27,6 @@ The platform includes:
 
 ---
 
-![Homepage](images/homepage.png)
 
 
 ## 💻 Technologies Used
@@ -43,4 +42,6 @@ The platform includes:
 1. Clone the repository  
 ```bash
 git clone https://github.com/Joshylicious-hub/EmpowerHer.git
+
+---
 2. Open in your local server (e.g., XAMPP)
