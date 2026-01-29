@@ -31,7 +31,7 @@ The platform includes:
 
 - **Front-End**: HTML, CSS, JavaScript  
 - **Back-End**: PHP, MySQL  
-- **AI Integration**: AI Chatbot & Content Checker  
+- **AI Integration**: OpenAI (AI Chatbot & Content Checker)  
 
 ---
 
