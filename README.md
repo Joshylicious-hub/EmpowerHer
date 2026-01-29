@@ -43,5 +43,4 @@ The platform includes:
 ```bash
 git clone https://github.com/Joshylicious-hub/EmpowerHer.git
 
----
-2. Open in your local server (e.g., XAMPP)
+Open in your local server (e.g., XAMPP)
