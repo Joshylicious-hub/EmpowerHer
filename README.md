@@ -34,6 +34,11 @@ The platform includes:
 
 ---
 
+Copyright © 2026 Joshua Andres
+
+All rights reserved.
+This code may not be copied, modified, or distributed without explicit permission.
+
 ## 🚀 How to Run
 
 1. Clone the repository  
