@@ -39,3 +39,5 @@ The platform includes:
 1. Clone the repository  
 ```bash
 git clone https://github.com/Joshylicious-hub/EmpowerHer.git
+
+Open in your local server (e.g., XAMPP)
